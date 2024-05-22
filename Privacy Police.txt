@@ -1,0 +1,99 @@
+
+Datenschutzhinweise | Alexa Skill
+
+1.     Inhalt dieser Datenschutzhinweise 
+
+Mit diesen Datenschutzhinweisen informieren wir Sie darüber, welche personenbezogenen Daten wir verarbeiten, wenn Sie unseren MVG Alexa Skill ("Skill") nutzen. Daneben erfahren Sie in diesen Datenschutzhinweisen, welche Rechte Sie in Bezug auf Ihre Daten haben.
+
+Der Begriff "personenbezogene Daten" meint alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen.
+
+2.    Verantwortlicher und Datenschutzbeauftragter 
+
+Verantwortlicher gem. Art. 4 Abs. 7 EU-Datenschutz-Grundverordnung (DSGVO) ist die Münchner Verkehrsgesellschaft mbH (nachfolgend auch "wir" “ oder "MVG"), Emmy-Noether-Str. 2, 80992 München, Telefon: 089 2191-0, Fax: 089 2191-703386, E-Mail: alexa@mvg.de
+
+Den Datenschutzbeauftragten der Münchner Verkehrsgesellschaft mbH (MVG) erreichen Sie unter:
+
+Münchner Verkehrsgesellschaft mbH (MVG)
+Datenschutzbeauftragter
+Emmy-Noether-Straße 2
+80992 München
+E-Mail: datenschutz@swm.de
+
+3.    Grundsätzliches zur Datenerhebung und zum Nutzungsumfang
+
+3.1 Technisch erforderliche Daten 
+
+Aus technischen Gründen müssen wir bei der Nutzung des Skills bestimmte Daten verarbeiten. Als Grundlage zur Speicherung dient Ihre pseudonymisierte User-ID von Amazon. Zwecke der Datenerhebung und -verarbeitung sind:
+
+    Bearbeitung Ihrer Anfrage;
+    Adresse, sofern Sie der Übertragung der in Ihrem Amazon-Konto gespeicherten Adresse an den Skill in der Alexa App zugestimmt haben für die Funktion "Verbindungen":
+    - Bei der Funktion "Verbindungen" wird Ihre bei Amazon angegebene Adresse nur mit Ihrer Einwilligung genutzt. Sie wird bei der erstmaligen Nutzung abgefragt und in der Amazon App gespeichert. Adressen werden nicht gespeichert, sondern bei jeder Anfrage neu von Ihrem Amazon Alexa abgefragt.
+    - Die Adresse dient Ihnen zur Abfrage: "Alexa, frage MVG, wie komme ich am schnellsten zu Haltestelle …?". Sie müssen somit Ihren Abfahrtsort nicht angeben.
+
+ 
+
+3.2. Weitere Daten
+
+Es werden Daten zum Nutzungsverhalten sowie Sprachausgabe (Datum und Dauer der Nutzung, Anfragen an die Sprachassistenten, Fehlermeldungen) erhoben und ausgewertet. Diese Daten dienen der Wartung und Verbesserung des Skills. 
+
+
+4.    Ablauf der Datenverarbeitung
+
+Nachdem Sie den Skill aktiviert haben, können Sie Alexa einen Sprachbefehl geben oder eine Frage an uns stellen ("Anfrage"). Um Ihre Anfrage zu bearbeiten, wird uns Amazon folgende Daten in Textform übermitteln:
+
+    Ihre Amazon User-ID,
+    Ihre Anfrage.
+
+ 
+
+Soweit wir eine Antwort auf Ihre Anfrage haben, geben wir diese in Textform an Amazon weiter. Amazon wandelt den Text in eine Audiodatei um, die Ihnen Alexa abspielt. 
+
+Wir verarbeiten Ihre Daten ausschließlich ab Erhalt Ihrer Daten von Amazon bis Übermittlung unserer Antwort an Amazon.
+
+Nachdem wir eine Antwort an Amazon übermittelt haben, anonymisieren wir Ihre Anfrage. Wir speichern Ihre User-ID für spätere Anfragen so lange, wie der Skill für Sie aktiviert ist.
+
+5.    Wann werden Ihre Daten gelöscht?
+
+Wir speichern Ihre Daten solange Sie den Skill aktiviert haben. Nach jeder Deaktivierung des Skills wird Ihre Unique-ID gelöscht und es findet somit kein nutzerspezifisches Tracking statt. 
+
+Die Daten, die wir zu Wartung und Verbesserung des Skills von Ihnen speichern, löschen wir nach 30 Tagen (Datum und Dauer der Nutzung, Anfragen an die Sprachassistenten, Fehlermeldungen). 
+
+Die gespeicherten Daten können Sie jederzeit löschen, indem Sie "Alle Daten löschen" sagen.
+
+6. Werden Ihre Daten weitergegeben?
+
+Für Entwicklung und Betrieb des Skills setzen wir den technischen Dienstleister ONSEI GmbH als Auftragsverarbeiter ein.
+
+Wenn Sie den Skill nutzen, werden Ihre personenbezogenen Daten über Alexa-fähige Endgeräte auch an Amazon weitergegeben. Auf eine etwaige Datenverarbeitung Ihrer personenbezogenen Daten durch Amazon haben wir keinen Einfluss.
+
+Bei erstmaliger Aktivierung des Sprachassistenten Alexa stimmen Sie den Amazon Datenschutzrichtlinien und Nutzungsbedingungen, sowie den Alexa Nutzungsbedingungen zu.
+
+Unter Umständen übermittelt Amazon Ihre Daten auch an Amazon-Konzerngesellschaften in den USA (Amazon.com, Inc., Amazon.com Services, Inc., Amazon Advertising LLC, Amazon Digital Services LLC, Amazon Services LLC, Amazon Web Services, Inc., Audible, Inc.).
+
+7. Rechtsgrundlagen der Datenverarbeitung
+
+Bei der Verarbeitung von personenbezogenen Daten, die zur Erfüllung eines Vertrages mit Ihnen erforderlich sind, ist der Vertrag nach Artikel 6 Absatz 1 lit. b DSGVO die Rechtsgrundlage. 
+
+Soweit wir für Verarbeitungsvorgänge personenbezogener Daten eine Einwilligung von Ihnen einholen, dient diese nach Artikel 6 Absatz 1 lit. a DSGVO als Rechtsgrundlage.
+
+
+8.    Ihre Rechte 
+
+Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
+
+    Recht auf Auskunft,
+    Recht auf Berichtigung oder Löschung,
+    Recht auf Einschränkung der Verarbeitung,
+    Recht auf Widerspruch gegen die Verarbeitung,
+    Recht auf Datenübertragbarkeit.
+
+
+Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren.
+
+Wenn Sie eine Einwilligung zur Nutzung von Daten erteilt haben und diese widerrufen möchten, richten Sie diesen Widerruf bitte an: alexa@mvg.de
+
+9. Änderungsklausel
+
+Da unsere Datenverarbeitung Änderungen unterliegt, werden wir auch unsere Datenschutzhinweise von Zeit zu Zeit anpassen.
+
+Stand dieser Datenschutzhinweise: 27. Mai 2020
